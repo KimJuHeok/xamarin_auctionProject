@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381403326020",
+    "firebase_url": "https://auctiontest-5e6f0.firebaseio.com",
+    "project_id": "auctiontest-5e6f0",
+    "storage_bucket": "auctiontest-5e6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381403326020:android:9da0b5584b8d51e6",
+        "android_client_info": {
+          "package_name": "AuctionTest.AuctionTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381403326020-u2crss3v0umoimhct7cot36702jnarr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJtwu4a6VVN28g35QPui7xYotw36CjnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
